@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>Create Next App</title>
+        <title>Create Next App - with Typescript + Tailwind</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -12,7 +12,7 @@ export default function Home() {
         <h1 className="text-6xl font-bold">
           Welcome to{" "}
           <a className="text-blue-600" href="https://nextjs.org">
-            Next.js - with Typescript + Tailwind-JIT!
+            Next.js - with Typescript + Tailwind!
           </a>
         </h1>
 
